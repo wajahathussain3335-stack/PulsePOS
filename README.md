@@ -110,8 +110,4 @@ pulsepos/
 🧑‍💻 Author
 Wajahat Awan
 
-Fiverr Profile: Your Fiverr Link
-
-GitHub Handles: @your-username
-
 Professional Freelance Web Developer & System Architect.
