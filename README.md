@@ -107,6 +107,7 @@ pulsepos/
 │       └── dashboard_engine.js  # Async Interface Layer
 ├── index.php               # POS Cashier Terminal Screen
 └── dashboard.php           # Analytics Overview Engine
+
 🧑‍💻 Author
 Wajahat Awan
 
