@@ -24,13 +24,13 @@ PulsePOS is an ultra-premium, full-stack, multi-tenant Point of Sale system buil
 - **Database Layer:** MySQL (Relational management with foreign constraint mapping)
 
 - 
+
+
+---
 🧑‍💻 Author
 Email:** [wajahathussain3335@gmail.com](mailto:wajahathussain3335@gmail.com)
 - **🌐 Portfolio Website:** [https://codecraft.infy.click/](https://codecraft.infy.click/)
 - **🌐 Live Website:** [https://pulsepos.infy.click/](https://pulsepos.infy.click/)
-
----
-
 ## 🗄️ Database Setup & Schema
 
 Execute the following SQL commands in your local database manager (e.g., **phpMyAdmin**) to instantly map out the core relational structure for the ecosystem.
