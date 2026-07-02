@@ -23,6 +23,12 @@ PulsePOS is an ultra-premium, full-stack, multi-tenant Point of Sale system buil
 - **Backend Architecture:** PHP (Object-Oriented, PDO Structure)
 - **Database Layer:** MySQL (Relational management with foreign constraint mapping)
 
+- 
+🧑‍💻 Author
+Email:** [wajahathussain3335@gmail.com](mailto:wajahathussain3335@gmail.com)
+- **🌐 Portfolio Website:** [codecraft.infy.click/](codecraft.infy.click/)
+- **🌐 Live Website:** [https://pulsepos.infy.click/](https://pulsepos.infy.click/)
+
 ---
 
 ## 🗄️ Database Setup & Schema
@@ -107,9 +113,5 @@ pulsepos/
 │       └── dashboard_engine.js  # Async Interface Layer
 ├── index.php               # POS Cashier Terminal Screen
 └── dashboard.php           # Analytics Overview Engine
-## 🧑‍💻 Author
-Email:** [wajahathussain3335@gmail.com](mailto:wajahathussain3335@gmail.com)
-- **🌐 Portfolio Website:** [codecraft.infy.click/](codecraft.infy.click/)
-- **🌐 Live Website:** [https://pulsepos.infy.click/](https://pulsepos.infy.click/)
 
 
