@@ -107,9 +107,9 @@ pulsepos/
 │       └── dashboard_engine.js  # Async Interface Layer
 ├── index.php               # POS Cashier Terminal Screen
 └── dashboard.php           # Analytics Overview Engine
-
-🧑‍💻 Author
+## 🧑‍💻 Author
 Email:** [wajahathussain3335@gmail.com](mailto:wajahathussain3335@gmail.com)
 - **🌐 Portfolio Website:** [codecraft.infy.click/](codecraft.infy.click/)
 - **🌐 Live Website:** [https://pulsepos.infy.click/](https://pulsepos.infy.click/)
+
 
