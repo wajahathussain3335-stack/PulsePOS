@@ -109,6 +109,7 @@ pulsepos/
 └── dashboard.php           # Analytics Overview Engine
 
 🧑‍💻 Author
-Wajahat Awan
+Email:** [wajahathussain3335@gmail.com](mailto:wajahathussain3335@gmail.com)
+- **🌐 Portfolio Website:** [codecraft.infy.click/](codecraft.infy.click/)
+- **🌐 Live Website:** [https://pulsepos.infy.click/](https://pulsepos.infy.click/)
 
-Professional Freelance Web Developer & System Architect.
