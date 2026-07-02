@@ -26,7 +26,7 @@ PulsePOS is an ultra-premium, full-stack, multi-tenant Point of Sale system buil
 - 
 🧑‍💻 Author
 Email:** [wajahathussain3335@gmail.com](mailto:wajahathussain3335@gmail.com)
-- **🌐 Portfolio Website:** [codecraft.infy.click/](codecraft.infy.click/)
+- **🌐 Portfolio Website:** [[https://codecraft.infy.click/]([https://codecraft.infy.click/)
 - **🌐 Live Website:** [https://pulsepos.infy.click/](https://pulsepos.infy.click/)
 
 ---
